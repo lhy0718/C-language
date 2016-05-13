@@ -1,3 +1,2 @@
 # C-language
-C language codes
-...
+C language
