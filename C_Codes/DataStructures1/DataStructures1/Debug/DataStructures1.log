@@ -1,0 +1,4 @@
+﻿  연습4.2-8.cpp
+c:\users\hanyong\documents\visual studio 2015\projects\datastructures1\datastructures1\연습4.2-8.cpp(8): warning C4091: 'typedef ': 변수를 선언하지 않으면 'listNode' 왼쪽은 무시됩니다.
+  DataStructures1.vcxproj -> C:\Users\Hanyong\documents\visual studio 2015\Projects\DataStructures1\Debug\DataStructures1.exe
+  DataStructures1.vcxproj -> C:\Users\Hanyong\documents\visual studio 2015\Projects\DataStructures1\Debug\DataStructures1.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  소스.cpp
+c:\users\hanyong\documents\c-language\c_codes\datastructure3\datastructure3\list.h(10): warning C4091: 'typedef ': 변수를 선언하지 않으면 'City' 왼쪽은 무시됩니다.
+c:\users\hanyong\documents\c-language\c_codes\datastructure3\datastructure3\list.h(20): warning C4091: 'typedef ': 변수를 선언하지 않으면 'listNode' 왼쪽은 무시됩니다.
+  DataStructure3.vcxproj -> C:\Users\Hanyong\Documents\C-language\C_Codes\DataStructure3\Debug\DataStructure3.exe
+  DataStructure3.vcxproj -> C:\Users\Hanyong\Documents\C-language\C_Codes\DataStructure3\Debug\DataStructure3.pdb (Partial PDB)
